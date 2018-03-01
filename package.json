@@ -2,7 +2,7 @@
   "name": "mejiro",
   "version": "0.0.1",
   "description": "Promise.all and Promise.race in Clusters",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "pretest": "standard",
     "test": "tap test/*.js"
