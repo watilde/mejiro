@@ -1,6 +1,6 @@
 {
   "name": "mejiro",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Promise.all and Promise.race in Clusters",
   "main": "lib/index.js",
   "scripts": {
